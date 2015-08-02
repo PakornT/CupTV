@@ -13,8 +13,8 @@
     <summary lang="th">CupTV on-deman</summary>
     <description lang="en">Feel free to enjoy CupTV service, a TV on-demand website.</description>
     <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</disclaimer>
-    <source>https://github.com/k3oni/plugin.video.world.news.live</source>
-    <forum>http://forum.xbmc.org/showthread.php?tid=97488</forum>
+    <source>https://github.com/PakornT/CupTV/tree/master/plugin.video.cuptv</source>
+    <forum>BLANK</forum>
   </extension>
 </addon>
 
